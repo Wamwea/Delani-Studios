@@ -1,0 +1,30 @@
+
+.hero{
+    background-image: url(assets/backgrounds/h_img.jpg);
+    color: black;
+    position: static;
+    background-color: aqua;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.scroll-down{
+position: absolute;
+bottom: 50px;   
+left: 0;
+right: 0;
+margin: auto;
+}
+.scroll-down-image:hover{
+    opacity: .5;
+    cursor: pointer;
+}
+#about-us{
+  background-color:rgb( 239, 240, 224)
+}
+#services-tab{
+background-image: url(assets/backgrounds/s_image.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
