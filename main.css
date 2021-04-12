@@ -28,3 +28,6 @@ background-image: url(assets/backgrounds/s_image.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 }
+#details-tab{
+  background-color: rgb(239, 240, 224);
+}
